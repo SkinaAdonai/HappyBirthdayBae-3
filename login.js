@@ -50,7 +50,7 @@ humm ayanggg selamat ulang tahun yah ndutt, semoga dihari ulang tahun bae yang k
 HAPPY BIRTHDAY AYANGGGG`;
 }
 
-var musik = "./audio/audio2.mp3";
+var musik = "./audio2.mp3";
 
 var audio = document.querySelector(".audio");
 var isiSurat = document.querySelector(".pesan");
